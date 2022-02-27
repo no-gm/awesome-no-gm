@@ -11,3 +11,6 @@ Links to gather alternatives to a hyperactive hive mind model of DAOs
 - [Focusmate](https://www.focusmate.com/)
 - [Calendly](https://calendly.com/)
 - [Anki](https://apps.ankiweb.net/)
+
+# Hardware
+- [Remarkable Tablet](https://remarkable.com/)
